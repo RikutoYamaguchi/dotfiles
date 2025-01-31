@@ -1,0 +1,40 @@
+[user]
+  name  = RikutoYamaguchi
+  email = yamaguchirkt@gmail.com
+[core]
+  excludesfile = ~/.gitignore
+  autoCRLF = false
+  editor = vim
+  quotepath = false
+  safecrlf = true
+[alias]
+  b    = branch
+  f    = fetch
+  l    = log --graph --pretty=full --stat
+  ci   = commit -v
+  cm   = commit -m
+  sh   = show -p --stat
+  st   = status
+  stat = status
+  sw   = checkout
+  co   = checkout
+  cob  = checkout -b
+  ad   = add .
+  di   = diff
+  k    = push
+  m    = merge
+[color]
+  diff   = auto
+  status = auto
+  branch = auto
+[pull]
+  rebase = false
+[push]
+  default = simple
+  autoSetupRemote = true
+[filter "lfs"]
+  clean = git-lfs clean %f
+  smudge = git-lfs smudge %f
+  required = true
+[init]
+  defaultBranch = main

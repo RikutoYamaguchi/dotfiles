@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "abusaidm.html-snippets",
+    "biomejs.biome",
+    "digitalbrainstem.javascript-ejs-support",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "ionutvmi.path-autocomplete",
+    "janisdd.vscode-edit-csv",
+    "mechatroner.rainbow-csv",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "mtxr.sqltools",
+    "orta.vscode-jest",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker",
+    "vscodevim.vim",
+    "zignd.html-css-class-completion",
+  ]
+}

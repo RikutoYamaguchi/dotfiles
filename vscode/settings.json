@@ -1,0 +1,9 @@
+{
+  "vim.useSystemClipboard": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "explorer.compactFolders": false,
+  "workbench.list.defaultFindMode": "filter",
+  // "vim.vimrc.enable": true,
+  // "vim.vimrc.path": "~/.vimrc"
+}
